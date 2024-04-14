@@ -1,0 +1,26 @@
+.body{
+    height: 700px;
+    width: 100%;
+ 
+    padding: 45px;
+     
+}
+
+.box-one{
+
+ width: 25px;
+
+}
+
+.buscador{
+    margin-top: 25px;
+    height: 100px;
+   
+   }
+   .btn-buscar{
+    margin-left: 25px;
+   
+   
+   }
+
+ 
